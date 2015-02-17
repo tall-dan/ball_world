@@ -3,6 +3,15 @@
 This is a quick exercise to help familiarize yourself with JavaScript /
 Jquery.
 
+### Getting started
+
+  *  Clone / fork this repo
+  *  Take a look at the code. The work you'll do is in ball_world.js,
+     but it will be good to know the structure of the html and the css classes as well
+  *  Open up ball_world.html in a browser. Look at what you've got, then
+     go ahead and get started on the requirements
+
+
 ### Requirements
 
 When you are done, you should be able to use the buttons on the right to:
