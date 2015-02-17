@@ -1,0 +1,19 @@
+button.btn{
+  display:block;
+  width: 70%;
+  margin: 10px 0px;
+}
+
+div.ball{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  border-radius: 50px;
+  text-align: center;
+  line-height: 7;
+}
+
+div.ball.selected{
+  background-color: rgb(63, 226, 255);
+}
+
