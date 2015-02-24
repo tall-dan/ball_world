@@ -1,7 +1,7 @@
 var BallFactory = {
   ballNumber : 1,
   create : function (){
-    ball = $("<div class='ball' id=" + ballNumber + ">" + ballNumber + "</div>");
+    ball = $("<div class='ball' id=" + this.ballNumber + ">" + this.ballNumber + "</div>");
     ballNumber++;
     //TODO add this ball to the DOM
   }
